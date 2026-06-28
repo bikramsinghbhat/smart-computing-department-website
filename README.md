@@ -22,14 +22,14 @@ A responsive frontend website developed as the final project for the Web Applica
 
 # Project Structure
 
-home.html                 # Homepage
-about.html                # About the department
-curriculum.html           # Curriculum details
-events-activities.html    # Events and activities
-s_projects.html           # Student projects
-labs.html                 # Laboratories
-faculty.html              # Faculty information
-contact.html              # Contact page
+home.htm                 # Homepage
+about.htm                # About the department
+curriculum.htm           # Curriculum details
+events-activities.htm    # Events and activities
+s_projects.htm           # Student projects
+labs.htm                 # Laboratories
+faculty.htm              # Faculty information
+contact.htm              # Contact page
 style.css                 # Website styling
 images/                   # Images used throughout the website
 
